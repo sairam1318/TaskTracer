@@ -33,3 +33,7 @@
 * Create a custom login page and using auth-js SDK, build a page which authenticates the credentials.
 * Explore workflows console in okta dashboard 
 * Create group rules 
+
+# Task 7
+
+* Prepare each screen in OKTA and give a walk through
