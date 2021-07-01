@@ -37,3 +37,10 @@
 # Task 7
 
 * Prepare each screen in OKTA and give a walk through
+
+# Task 8
+
+ * Create a Windows server on VIRTUAL MACHINE and integrate active directory with OKTA
+ * Create a some users and groups and add to okta
+ * Map an attribute in okta and to some attribute in ACTIVE DIRECTORY and import users into okta
+
