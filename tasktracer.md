@@ -44,3 +44,14 @@
  * Create a some users and groups and add to okta
  * Map an attribute in okta and to some attribute in ACTIVE DIRECTORY and import users into okta
 
+ # Task 9
+
+ * SAML authentication using PYTHON
+ * SCIM integration 
+
+ # Task 10
+
+ * Use OIDC debugger to integrate with okta
+ 
+ 
+
