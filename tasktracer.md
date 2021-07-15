@@ -46,12 +46,23 @@
 
  # Task 9
 
- * SAML authentication using PYTHON
- * SCIM integration 
+ * SAML authentication using PYTHON and using SAML Tracer look at the SAML RESPONSE AND SAML REQUEST 
+ * Learn about SCIM integration and how it works
 
  # Task 10
 
- * Use OIDC debugger to integrate with okta
+ * Use OIDC debugger to integrate with okta and go through networks how it is being integrated.
+
+ # Task 11
+
+ * Go thorugh Node JS sample SCIM Sever and learn how to create users and groups and etc..
+ * Using POSTMAN automation, create user and using USER_ID, assign them to groups and so on.
+ 
+ # Task 12
+
+ * Using node js sample scim server, create another database integration and add some 100 users into the database. Then import users into okta and then to the Active Directory.
+
+ 
  
  
 
